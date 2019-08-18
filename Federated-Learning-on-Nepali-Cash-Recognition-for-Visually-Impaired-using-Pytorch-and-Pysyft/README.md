@@ -1,3 +1,4 @@
+
 # Federated Learning on Nepali Cash Recognition for Visually Impaired using Pytorch and Pysyft
 
 ## Project Objective
@@ -27,3 +28,11 @@ Also I have deployed this project on Flask.
 Sample Video
 
 ![Sample Video](assets/video.gif)
+
+
+### Contributors
+
+| Name | Slack |
+| ------ | ------ |
+| NischalLal Shrestha | @theonlynischal |
+
